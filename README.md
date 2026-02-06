@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seasoned IT professional with 5+ years of experience spanning backend development, BI, and network engineering. Proficient in Python, JavaScript, and C#, with a strong background in system administration and diverse framework expertise. I'm passionate about building robust, scalable solutions and contributing to open-source projects.
+A highly analytical and versatile DevOps Engineer with in-depth experience in system and network administration, full-stack web development, and automation. Specializing in building robust IT infrastructures, cloud networking, and IT security. Proven track record in implementing CI/CD pipelines, monitoring solutions, and administering Linux environments. A solution-oriented practitioner with a passion for self-hosting, local AI models, and scalable digital architectures.
 
 
 # 💻 Tech Stack:
